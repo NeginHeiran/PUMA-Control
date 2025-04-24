@@ -50,7 +50,7 @@ The project explores the implementation and **simulation** of a variety of contr
 
 ## Trajectory Planning
 
-Desired trajectories for the robot joint angles are generated. The primary method involves assuming the initial and final position, velocity, and acceleration between time 0 to 5 seconds. Specific initial/final conditions are defined for `theta1`, `theta2`, and `theta3`. This yields polynomial trajectory equations. An M-file named `trajectoryPlanning` is mentioned to obtain the trajectory.
+Desired trajectories for the robot joint angles are generated (Joint Space). The primary method involves assuming the initial and final position, velocity, and acceleration between time 0 to 5 seconds. Specific initial/final conditions are defined for `theta1`, `theta2`, and `theta3`. This yields polynomial trajectory equations. An M-file named `trajectoryPlanning` is mentioned to obtain the trajectory.
 * You can change the trajectory planning scenario on your own through the trajectory planning MATLAB code and the reflection in Simulink.
 
 ## Simulation Environment
