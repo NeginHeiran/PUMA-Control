@@ -1,7 +1,7 @@
 # PUMA-Control
 # Controller Design and Implementation for Simple 3-DoF PUMA Robot
 
-**Project Title:** Controller Design and Implementation for Simple 3-DoF PUMA Robot
+**Project Title:** Controller Design and Implementation for Simple 3-DoF PUMA Robot using PD, Inverse Dynamics (PD, Adaptive, Robust) and Passivity-Based ((PD, Adaptive, Robust) Control Methods
 
 **Author:** FATEMEH (NEGIN) HEIRAN
 
@@ -83,5 +83,4 @@ The simulations performed for each controller result in trajectory tracking perf
 
 The theory behind each controller comes from this reference: C. Canudas de Wit, B. Siciliano, and G. Bastin, Theory of Robot Control. Berlin, Germany: Springer, 1996.
 You can read the formulas in mentioned book and don't hesitate to ask me question about the theory.
-
 
