@@ -74,7 +74,7 @@ To run the simulations:
 1.  Ensure you have **MATLAB** and **Simulink** installed. (Specific version that I used: **MATLAB R2022b**).
 2.  Clone this repository.
 3.  Open the project files in MATLAB.
-4.  The project contains M-files for trajectory generation (e.g., `trajectoryPlanning.m`) and **Simulink (`.slx`) files for each controller simulation**.
+4.  The project contains **Simulink (`.slx`) files for each controller simulation** and for more information M-files for trajectory generation (e.g., `trajectoryPlanning.m`).
 5.  Open and run the desired **Simulink models**.
 
 ## Simulation Results
