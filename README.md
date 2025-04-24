@@ -1,9 +1,11 @@
 # PUMA-Control
 # Controller Design and Implementation for Simple 3-DoF PUMA Robot
 
-**Project Title:** Controller Design and Implementation for Simple 3-DoF PUMA Robot using PD, Inverse Dynamics (PD, Adaptive, Robust) and Passivity-Based ((PD, Adaptive, Robust) Control Methods
+**Project Title:** Controller Design and Implementation for Simple 3-DoF PUMA Robot
 
-**Author:** FATEMEH (NEGIN) HEIRAN
+**Control Methods:** PD, Inverse Dynamics (PD, Adaptive, Robust) and Passivity-Based (PD, Adaptive, Robust)
+
+**Author:** Fatemeh (Negin) Heiran
 
 **Version:** 01
 
@@ -12,7 +14,7 @@
 ## Contact
 
 For questions or inquiries, please contact:
-*   **Email:** heiran.negin@gmail.com
+*   **Email:** heiran.negin@gmail.com | heiran.fatemeh@gmail.com
 *   **Linkedin:** https://www.linkedin.com/in/fatemeh-heiran-337bb416a/
 
 
