@@ -9,7 +9,7 @@
 
 **Version:** 01
 
-**Note:** The complete guide 
+**Note:** The guide file included in "Controller Design Methods and Implementations for Simple 3-DoF PUMA Robot.pdf"
 
 ## Contact
 
