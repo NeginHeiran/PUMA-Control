@@ -3,7 +3,7 @@
 
 **Project Title:** Controller Design and Implementation for Simple 3-DoF PUMA Robot
 
-**Control Methods:** PD, Inverse Dynamics (PD, Adaptive, Robust) and Passivity-Based (PD, Adaptive, Robust)
+**Control Methods:** PD, Inverse Dynamics (PD, Adaptive, Robust), Passivity-Based (PD, Adaptive, Robust), Parallel, Impedance, and an example of Telerobotics Using ISS Method
 
 **Author:** Fatemeh (Negin) Heiran
 
