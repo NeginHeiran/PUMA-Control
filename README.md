@@ -14,7 +14,7 @@
 ## Contact
 
 For questions or inquiries, please contact:
-*   **Email:** heiran.negin@gmail.com | heiran.fatemeh@gmail.com
+*   **Email:** info@neginheiran.com | heiran.fatemeh@gmail.com
 *   **Linkedin:** https://www.linkedin.com/in/fatemeh-heiran-337bb416a/
 
 
@@ -24,7 +24,11 @@ This project focuses on the **design and simulation of several control methods**
 
 ## Robot Model
 
-The project utilizes a **simplified 3-DoF articulated PUMA robot**. This robot configuration features **three revolute joints**, similar to a human arm. Articulated robots are the most common configuration for industrial robots. The selected articulated robot is the same as PUMA’s robot first part which yields to the robot end effector position. The robot consists of three revolute joints which implies **3 DoF in task space**. The configuration of the simplified PUMA robot is shown in the right side of Figure 1.
+The project utilizes a **simplified 3-DoF articulated PUMA robot**. This robot configuration features **three revolute joints**, similar to a human arm. Articulated robots are the most common configuration for industrial robots. The selected articulated robot is the same as PUMA’s robot first part which yields to the robot end effector position. The robot consists of three revolute joints which implies **3 DoF in task space**.
+
+
+<img width="917" height="302" alt="image" src="https://github.com/user-attachments/assets/652e278f-a9f8-43d1-b1ac-622c30487a19" />
+
 
 Key aspects of the robot model covered include:
 *   **3-DoF Articulated Structure**
